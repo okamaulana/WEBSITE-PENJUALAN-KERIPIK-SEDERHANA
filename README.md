@@ -1,4 +1,5 @@
 Penjualan Keripik (Web App)
+Fullstack : Oka Maulana
 Judul Project: Web Aplikasi Penjualan Keripik
 Teknologi: PHP, MySQL, HTML, CSS, JavaScript
 Status: 🚀 Selesai & Siap Digunakan
