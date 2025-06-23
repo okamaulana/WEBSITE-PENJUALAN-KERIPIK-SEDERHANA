@@ -1,7 +1,11 @@
 Penjualan Keripik (Web App)
+
 Fullstack : Oka Maulana
+
 Judul Project: Web Aplikasi Penjualan Keripik
+
 Teknologi: PHP, MySQL, HTML, CSS, JavaScript
+
 Status: 🚀 Selesai & Siap Digunakan
 
 Website ini adalah aplikasi web sederhana untuk memfasilitasi penjualan berbagai jenis keripik (seperti keripik udang, ayam, sapi, dll). Dibangun menggunakan PHP dan MySQL sebagai backend serta desain antarmuka yang responsive dan user-friendly.
@@ -24,5 +28,7 @@ Website ini adalah aplikasi web sederhana untuk memfasilitasi penjualan berbagai
 ![{25005DCF-5843-43D0-A0C9-23C74063175F}](https://github.com/user-attachments/assets/52f76aad-398e-4385-bef6-ddac8f662c5c)
 
 
-💡 Tujuan:
+
+
+Tujuan:
 Meningkatkan digitalisasi UMKM atau bisnis rumahan agar bisa menjual produk secara online dengan tampilan profesional dan sistem data yang rapi.
