@@ -2,6 +2,8 @@ Penjualan Keripik (Web App)
 
 Fullstack : Oka Maulana
 
+Contact/Wa : 082287956090
+
 Judul Project: Web Aplikasi Penjualan Keripik
 
 Teknologi: PHP, MySQL, HTML, CSS, JavaScript
